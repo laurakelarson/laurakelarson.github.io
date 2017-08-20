@@ -1,0 +1,82 @@
+<html>
+
+<head>
+
+<title>
+Cats With Guns
+</title>
+<link rel="stylesheet" type="text/css" href="default.css" media="screen" />
+
+<div id="wrapper">
+	<div id="header-wrapper">
+		<div id="header" class="container">
+			<div id="logo">
+				<h1><a href="photos">Cats with Guns</a></h1>
+				<p>Code Fellows</p>
+			</div>
+		</div>
+
+
+	</div>
+	<div id="menu-wrapper">
+		<div id="menu" class="container">
+			<ul>
+				<li><a href="cats with guns - gifs">Cats with Guns</a></li>
+				<li class="current_page_item"><a href="cats with guns">Donate</a></li>
+				<li><a href="relevant links">Relevant Links</a></li>
+			</ul>
+      </div>
+
+
+      	</div>
+      	<div id="banner"></div>
+      	<div id="page" class="container">
+      		<div id="content">
+      			<div class="title">
+
+      				<h2>Donate to the Cause</h2>
+      				<span class="byline">ARM THE KITTIES</span> </div>
+
+            <p>This is <strong>Cats with Guns</strong>, a silly cause we are passionate about.</p>
+      			<p>We want to arm cats to defend themselves for the inevitable uncertainty to come.</p>
+
+
+</head>
+
+
+
+<section>
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+
+    <!-- Identify your business so that you can collect the payments. -->
+    <input type="hidden" name="business"
+        value="donations@catswithguns.org">
+
+    <!-- Specify a Donate button. -->
+    <input type="hidden" name="cmd" value="_donations">
+
+    <!-- Specify details about the contribution -->
+    <input type="hidden" name="item_name" value="Friends of the Cats">
+    <input type="hidden" name="item_number" value="Campaign to Arm Cats">
+    <input type="hidden" name="currency_code" value="USD">
+
+    <!-- Display the payment button. -->
+    <input type="image" name="submit"
+    src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_92x26.png"
+    alt="Donate">
+    <img alt="" width="1" height="1"
+    src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
+
+</form>
+
+<p><img src="https://c1.staticflickr.com/9/8392/8463042087_72a87926e1.jpg"/>
+
+</section>
+
+<footer>
+Copyright Cats With Guns Team - 2017 Code Fellows 101
+</footer>
+
+</html>

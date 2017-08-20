@@ -1,0 +1,59 @@
+<html>
+
+  <head>
+    <title>
+    Cats With Guns
+
+    </title>
+
+    <link rel="stylesheet" type="text/css" href="css.css"
+  </head>
+
+  <body>
+
+    <header>
+
+
+
+
+
+
+    <header>
+      <h1>GIFs of Cats and Guns</h1>
+    </header>
+
+
+
+    <nav>
+      <ul>
+				<li><a href="cats with guns - gifs">Cats with Guns</a></li>
+				<li><a href="cats with guns">Donate</a></li>
+				<li><a href="relevant links">Relevant Links</a></li>
+			</ul>
+
+    </nav>
+
+    <h2>Cat with a gun</h2>
+    <img src="https://media.giphy.com/media/VlJDrjSn7fw1G/giphy.gif">
+    <img src="https://media.giphy.com/media/Edbkk7WKv7iEg/giphy.gif">
+
+    <h2>Cat is a gun</h2>
+    <img src="https://media.giphy.com/media/11o5XSH89ckjde/giphy.gif">
+    <img src="https://media.giphy.com/media/6i49GdbLNyc5W/giphy.gif">
+  </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
